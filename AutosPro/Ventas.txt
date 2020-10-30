@@ -1,0 +1,25 @@
+Clave:2504
+Marca:FORD
+Tipo:FUSION
+Precio Contado:20000
+Plazo: 48
+Interes: 20 %
+Precio Total: 24000.0
+Mensualidad: 500.0
+Clave:4545
+Marca:FORD
+Tipo:FUSION
+Precio Contado:20000
+Plazo: 24
+Interes: 15 %
+Precio Total: 23000.0
+Mensualidad: 958.3333
+Clave:4545
+Marca:FORD
+Tipo:FUSION
+Precio Contado:20000
+Plazo: 24
+Interes: 15 %
+Precio Total: 23000.0
+Mensualidad: 958.3333
+4545_FORD_FUSION_20000_24_15 %_23000.0_958.3333
